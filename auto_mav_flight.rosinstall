@@ -1,0 +1,2 @@
+- git: {local-name: auto_mav_flight, uri: 'git@gitlab.com:zheng-rong/auto_mav_flight.git', version: 'develop'}
+- git: {local-name: parameter_utils, uri: 'git@gitlab.com:zheng-rong/parameter_utils.git', version: 'develop'}
